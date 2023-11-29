@@ -1,4 +1,4 @@
-import { attach } from "./store.js";
-import App from "../components/App.js";
+import { attach } from './store.js'
+import App from '../components/App.js'
 
-attach(App, document.querySelector("#app"));
+attach(App, document.querySelector('#app'))
